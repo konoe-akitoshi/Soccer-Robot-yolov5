@@ -4,7 +4,7 @@ val: /content/Soccer-Robot-yolov5/Soccer-Robot/val/
 test: /content/Soccer-Robot-yolov5/Soccer-Robot/test/
 
 # number of classes
-nc: 0 # 検出対象が1種類なのでクラスラベルは0
+nc: 1 # 検出対象が1種類なのでクラスラベルは1
 
 # class names
 names: ["Soccer Robot"]
